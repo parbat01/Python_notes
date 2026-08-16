@@ -61,7 +61,49 @@ Output: Str; Short form for string
  I'm a multi-line comment.
 
  Nice  to meet you"""
- 
+
  **See the difference?**
+
+
+# Operators
+
+- An operator is a symbol that performs a certain operation between operands.
+ 
+
+# Types:
+
+- Arithmetic Operators (  + , - , * , / , %, ** )   % is used for remainder and ** is power ex, 2**2 =4
+
+- Relational / Comparison Operators ( == , != , > , < , >= , <= )
+
+- Assignment Operators ( = , +=,  -= , *=,  /=, %= , **= )  
+
+
+# += is 
+sum=10                     or          sum=10
+Sum=sum+20                             sum+=20
+
+- Logical Operators ( not , and , or )
+
+
+# To give data in python 
+
+- Syntax :**input(" ")**
+- Input normally take string or  even if we put number it assume it as a string.
+- So to enter number we have to use different syntax   i.e.
+
+ **int(input(“enter some number”))**
+
+ # Let's practice some question.
+
+ Q1)WAP to input 2 numbers and print their sum.
+ 
+ <img src="q1.png">
+
+ Q2) WAP to input side of a square and print it’s square.
+
+ <img src="q2.png">
+
+
 
  
