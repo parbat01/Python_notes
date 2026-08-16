@@ -78,11 +78,6 @@ Output: Str; Short form for string
 
 - Assignment Operators ( = , +=,  -= , *=,  /=, %= , **= )  
 
-
-# += is 
-sum=10                     or          sum=10
-Sum=sum+20                             sum+=20
-
 - Logical Operators ( not , and , or )
 
 
@@ -92,7 +87,7 @@ Sum=sum+20                             sum+=20
 - Input normally take string or  even if we put number it assume it as a string.
 - So to enter number we have to use different syntax   i.e.
 
- **int(input(“enter some number”))**
+    **int(input(“enter some number”))**
 
  # Let's practice some question.
 
@@ -103,6 +98,50 @@ Sum=sum+20                             sum+=20
  Q2) WAP to input side of a square and print it’s square.
 
  <img src="q2.png">
+
+
+# Strings
+- Anything inside " " or ' ' or ''' ''' is a string.
+- For example, name='parbat' or "parnbat" . Here the word parbat is a string.
+
+
+# Operaton on strings :
+- Concatenation :   “hello” + “world”    =  “helloworld”
+- Length of a string :  len(variable name which contain string)
+
+
+# Indexing:
+- Index = position
+- In python indexing start from 0.
+
+- P  A  R  B  A  T  U P  A  D  H   A   Y   A 
+- 0  1  2  3  4  5  6 7  8  9  10  11  12  13 
+
+
+# Slicing
+- Accessing parts of strings.
+- Syntax : str_name[starting index : ending index] #ending index is not included
+
+- Example,   
+  name= “parbat”
+- name[1:4] gives arb because the first index is on "a" and last index i.e 4 is not included so it goes upto 3 index only.
+
+- Str_name[ :4] is same as str[0:4]
+- Str_name[1: ] is same as str[1: len(str)]
+
+
+# Negative index(only in slicing)
+
+  A  P  P  L  E
+
+
+ -5 -4 -3 -2 -1
+
+ name= “apple”
+- name[-3:-1] gives  pl 
+
+#Indentation = proper spacing in python
+
 
 
 
