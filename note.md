@@ -17,11 +17,11 @@
 - We can’t use any special symbol like @, $, #, !, & etc.
 
  # Data types
--Integer (It contains +ve,-ve,and 0). Example, (25,-25,0)  Syntax: Int
--String ( Anything inside  “  ”  , ‘  ’ ,  “‘  ’’’  , ). Example, “Parbat” , ‘Hello world’ .
--Float (Number with decimal). Example, ( 25.0 , 45.34).
--Boolean ( True , False ) ; T and F should be capital.
--None ; N should be capital . Example, a =None.
+- Integer (It contains +ve,-ve,and 0). Example, (25,-25,0)  Syntax: Int
+- String ( Anything inside  “  ”  , ‘  ’ ,  “‘  ’’’  , ). Example, “Parbat” , ‘Hello world’ .
+- Float (Number with decimal). Example, ( 25.0 , 45.34).
+- Boolean ( True , False ) ; T and F should be capital.
+- None ; N should be capital . Example, a =None.
 # We can print the type of a varibale 
 name= “parbat”
 Print(type(name)) # It gives the type of data stored in a variable.
@@ -29,19 +29,18 @@ Print(type(name)) # It gives the type of data stored in a variable.
 Output: Str; Short form for string
 
 # Keywords
--Keywords are reserved words in python.
--We can’t  use keywords as a variables. i.e We can't use print="Parbat" because print is a keyword in python.
--The following are some keywords.
-
-| and   | elif     |  is     |  None  |
-| as    | False    |  except |  in    |
-| True  | nonlocal |  for    |  try   |
-| class | from     |  while  |  pass  |
-| def   | continue |  not    |  raise |
-| break | lambda   |  with   |  or    |
-| else  | return   |  global |       
-| if    | finally  |  yield  |  
-| del   | assert   |  import |      
-
+- Keywords are reserved words in python.
+- We can’t  use keywords as a variables. i.e We can't use print="Parbat" because print is a keyword in python.
+- The following are some keywords.
+|---|---|---|---|
+| `and` | `elif` | `is` | `None` |
+| `as` | `False` | `except` | `in` |
+| `True` | `nonlocal` | `for` | `try` |
+| `class` | `from` | `while` | `pass` |
+| `def` | `continue` | `not` | `raise` |
+| `break` | `lambda` | `with` | `or` |
+| `else` | `return` | `global` | |
+| `if` | `finally` | `yield` | |
+| `del` | `assert` | `import` | |
 
  
