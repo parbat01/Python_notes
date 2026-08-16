@@ -9,9 +9,39 @@
 # Variables
 - Variables are the name or symbol that stores values in memory.(Primarily in RAM)
 - Example, name= “Parbat”, here, name is a variable and Parbat is a value. Similarly, age=19 , here, age is a variable and 19 is a value. However, we don’t put “  ” in a number.
+
 #  Rules to define identifiers(Variables and functions)
 - An identifier cannot start with digit. So, Var1 is a valid variable but 1Var is not valid.
 - Identifier can be combination of upper case , lower case, 0-9 and underscore.
 - Identifier can be of any length 
 - We can’t use any special symbol like @, $, #, !, & etc.
 
+ # Data types
+-Integer (It contains +ve,-ve,and 0). Example, (25,-25,0)  Syntax: Int
+-String ( Anything inside  “  ”  , ‘  ’ ,  “‘  ’’’  , ). Example, “Parbat” , ‘Hello world’ .
+-Float (Number with decimal). Example, ( 25.0 , 45.34).
+-Boolean ( True , False ) ; T and F should be capital.
+-None ; N should be capital . Example, a =None.
+# We can print the type of a varibale 
+name= “parbat”
+Print(type(name)) # It gives the type of data stored in a variable.
+
+Output: Str; Short form for string
+
+# Keywords
+-Keywords are reserved words in python.
+-We can’t  use keywords as a variables. i.e We can't use print="Parbat" because print is a keyword in python.
+-The following are some keywords.
+
+| and   | elif     |  is     |  None  |
+| as    | False    |  except |  in    |
+| True  | nonlocal |  for    |  try   |
+| class | from     |  while  |  pass  |
+| def   | continue |  not    |  raise |
+| break | lambda   |  with   |  or    |
+| else  | return   |  global |       
+| if    | finally  |  yield  |  
+| del   | assert   |  import |      
+
+
+ 
