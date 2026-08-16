@@ -33,6 +33,7 @@ Output: Str; Short form for string
 - We can’t  use keywords as a variables. i.e We can't use print="Parbat" because print is a keyword in python.
 - The following are some keywords.
 
+| Python Keyword | Python Keyword | Python Keyword | Python Keyword |
 |---|---|---|---|
 | `and` | `elif` | `is` | `None` |
 | `as` | `False` | `except` | `in` |
@@ -43,5 +44,4 @@ Output: Str; Short form for string
 | `else` | `return` | `global` | |
 | `if` | `finally` | `yield` | |
 | `del` | `assert` | `import` | |
-
  
