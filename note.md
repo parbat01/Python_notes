@@ -32,6 +32,7 @@ Output: Str; Short form for string
 - Keywords are reserved words in python.
 - We can’t  use keywords as a variables. i.e We can't use print="Parbat" because print is a keyword in python.
 - The following are some keywords.
+
 |---|---|---|---|
 | `and` | `elif` | `is` | `None` |
 | `as` | `False` | `except` | `in` |
