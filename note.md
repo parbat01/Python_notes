@@ -51,12 +51,17 @@ Output: Str; Short form for string
 - Commets are used to understand code if we see it in furture. 
 - It won’t run with code.
 - We can use  **#** for comments or  **"""** .
+
 **Then what's the different between these two?**
 **#** is used when we have to comment a single line and **"""** is used when we have to comment down multiple lines.
 - For instance, #Hello i'm a single line comment
+
  """Hello ,
+
  I'm a multi-line comment.
+
  Nice  to meet you"""
+ 
  **See the difference?**
 
  
