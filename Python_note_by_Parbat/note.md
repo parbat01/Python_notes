@@ -177,15 +177,37 @@ else:
 Statement N
 
                                              
-#  Nesting:
+#  Nesting(Condition inside the condition ):
 
-- if(condition):"\n"
-      if(condition):
-            Statement
-      else:
-          Statement
-  else:
-      Statement
+- if(condition):
+
+if(condition):
+
+Statement
+
+else:
+
+Statement
+
+else:
+
+Statement
+
+
+# Lets practice some question 
+
+- Q3) Check whether the entered number is odd or even.
+
+ <img src="q3.png">
+
+- Q4)Enter three number and find the greatest number.
+
+  <img src="q4.png">
+
+- Q5) Check whether the entered nunmber is a multiple of 7 or not?
+
+  <img src="q5.png">
+
 
 
 
