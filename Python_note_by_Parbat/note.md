@@ -213,6 +213,45 @@ Statement
 <img src="photos/q6.png">
 
 
+# Lists
+
+- A built in data type that stores sets of value.
+- It can store elements of different types ( integer , string, float , etc)
+- Example,   marks=[ 57 , 67, 98, 34]
+- Note : marks[0]=57 , marks[1]=67, marks[2]=98, marks[3]=34
+- It is mutable i.e.we can change the value of the list.
+
+
+# Lists methods
+
+- num=[2,4,6]
+
+- num.append(8) # adds one element in the end  i.e. num=[2,4,6,8]
+- num.sort() # sorts in ascending order. i.e. num=[2,4,6]
+- num.sort(reverse=True) #sorts in descending order i.e. num=[6,4,2]
+- num.reverse()  # reverses list  i.e. num=[6,4,2]
+- num.insert(index, element) # inserts elements at index i.e. num.insert(1,0) this will put 0 in index 1. num=[2,0,4,6]
+- num.remove(element) # removes first occurrence
+- num.pop(index) # removes element at index
+
+                       
+# Tuples
+
+- A built in data type that let us create immutable sequence of values.
+  
+- tup=(56,34,8,32,) # Tup[0]=56,........
+- tup[0]=34 # not allowed in python, we cannot change the element of a tuple  directly
+
+ # For a single value tuple:
+
+- tup=(1,) #Always a comma after single value
+
+- We can do slicing in  tuple and list too.
+
+# Tuple Methods
+
+- tup.index(element) #returns index of first occurrence.
+- tup.count(element) #counts total occurrences.
 
 
 
