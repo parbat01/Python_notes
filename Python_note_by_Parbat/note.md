@@ -158,15 +158,16 @@ Output: Str; Short form for string
 
 
 # Conditional statements 
-- Syntax=    if ( condition):"\n"  
-                         Statement 1"\n"
-                    elif( condition):
-                        Statement 2
-                          ::::
-                          ::::
-                          ::::
-                     else:
-                        Statement N
+- Syntax=    if ( condition):
+Statement 1
+
+elif( condition):
+Statement 2
+::::
+::::
+::::
+else:
+Statement N
 
                                              
 #  Nesting:
