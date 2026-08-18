@@ -158,8 +158,8 @@ Output: Str; Short form for string
 
 
 # Conditional statements 
-- Syntax=    if ( condition):  
-                         Statement 1
+- Syntax=    if ( condition):"\n"  
+                         Statement 1"\n"
                     elif( condition):
                         Statement 2
                           ::::
@@ -171,7 +171,7 @@ Output: Str; Short form for string
                                              
 #  Nesting:
 
-- if(condition):
+- if(condition):"\n"
       if(condition):
             Statement
       else:
