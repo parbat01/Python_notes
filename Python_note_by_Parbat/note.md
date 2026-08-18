@@ -158,15 +158,22 @@ Output: Str; Short form for string
 
 
 # Conditional statements 
-- Syntax=    if ( condition):
+- Syntax:
+
+if ( condition):
+
 Statement 1
 
 elif( condition):
+
 Statement 2
+
 ::::
 ::::
 ::::
+
 else:
+
 Statement N
 
                                              
