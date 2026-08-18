@@ -143,6 +143,43 @@ Output: Str; Short form for string
 #Indentation = proper spacing in python
 
 
+# String methods
+
+- Str= “I am a coder”
+
+- Str.endswith( “er”) # returns true if string ends with substring. ("er")-> Substring      
+
+- Str.capitalize() # capitalizes 1st character 
+- Str.replace(old,new) # replace all occurrences of old with new.
+- Str.find(word) # returns 1st index of 1st occurrence .
+- Str.rstrip(“#”) # removes all the symbol after a word.
+- Str.split(“     ”)# make a list whenever there is a space betwwen words in string
+- Str.count( “am”) # counts the occurrences os substring in the string  i.e 1 in this case because ” am” only occur 1 time in “I am a coder”
+
+
+# Conditional statements 
+- Syntax=    if ( condition):  
+                         Statement 1
+                    elif( condition):
+                        Statement 2
+                          ::::
+                          ::::
+                          ::::
+                     else:
+                        Statement N
+
+                                             
+#  Nesting:
+
+- if(condition):
+      if(condition):
+            Statement
+      else:
+          Statement
+  else:
+      Statement
+
+
 
 
  
