@@ -93,11 +93,11 @@ Output: Str; Short form for string
 
  Q1)WAP to input 2 numbers and print their sum.
  
- <img src="q1.png">
+ <img src="photos/q1.png">
 
  Q2) WAP to input side of a square and print it’s square.
 
- <img src="q2.png">
+ <img src="photos/q2.png">
 
 
 # Strings
@@ -198,16 +198,15 @@ Statement
 
 - Q3) Check whether the entered number is odd or even.
 
- <img src="q3.png">
+ <img src="photos/q3.png">
 
 - Q4)Enter three number and find the greatest number.
 
-  <img src="q4.png">
+ <img src="photos/q4.png">
 
 - Q5) Check whether the entered nunmber is a multiple of 7 or not?
 
-  <img src="q5.png">
-
+ <img src="photos/q5.png">
 
 
 
