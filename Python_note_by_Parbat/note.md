@@ -91,7 +91,7 @@ Output: Str; Short form for string
 
  # Let's practice some question.
 
- Q1)WAP to input 2 numbers and print their sum.
+ Q1) WAP to input 2 numbers and print their sum.
  
  <img src="photos/q1.png">
 
@@ -196,17 +196,23 @@ Statement
 
 # Lets practice some question 
 
-- Q3) Check whether the entered number is odd or even.
+- Q3) WAP to check whether the entered number is odd or even.
 
  <img src="photos/q3.png">
 
-- Q4)Enter three number and find the greatest number.
+- Q4) WAP to enter three number and find the greatest number.
 
  <img src="photos/q4.png">
 
-- Q5) Check whether the entered nunmber is a multiple of 7 or not?
+- Q5) WAP to check whether the entered nunmber is a multiple of 7 or not?
 
  <img src="photos/q5.png">
+
+- Q6) WAP to display A grade if mark>=90,B if  90>mark>=80, C if 80>mark>=70, D if  70>mark.
+
+<img src="photos/q6.png">
+
+
 
 
 
