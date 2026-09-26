@@ -302,6 +302,38 @@ Statement
 
 - Syntax : dict={} # empty dictionary  
 
+# Sets in python
+
+- Set is the collection of th eunordered items.
+- Each element in the set must be unique and immutable.
+ * List and dictionary cannot be stored in set because they are mutable.
+
+- Syntax : collection= {  1,2,3,4}
+               Print(collection)                            output : { 1,2,3,4}
+
+- collection= { 1,2,2,3,3, “world” , “world” }
+- Print(collection)                   
+- output : {1,2,3, “world” }  # repetation are igonered or duplicate values are not allowed 
+
+# Empty set 
+
+- Syntax : collection = set()  # empty set
+
+                                    
+# Set methods
+
+- set.add(element) # adds an element 
+- set.remove(element) # removes the element 
+- set.clear() #empties the set 
+- set.pop() #removes a random value 
+- set.union(set2) # combines both set values and returns new
+- set.intersection(set2) # combines common values and return new.
+
+- #Note: sets are mutable i.e. We can  add or remove elements but element sof sets are ummutable.
+- #Note: hashable = immutable 
+           Unhashable = mutable . Eg, list , dictionary 
+
+
 
 
 
