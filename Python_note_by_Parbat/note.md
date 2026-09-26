@@ -253,6 +253,27 @@ Statement
 - tup.index(element) #returns index of first occurrence.
 - tup.count(element) #counts total occurrences.
 
+- Q7) WAP to ask the user to enter names of their 3 favourite movies and store them in a list.
+
+<img src="photos/q7.png">
+
+# Dictionary in python
+
+- Dictionaries are used to store data values in  a syntax of   key : value pair
+ # Proper syntax:
+
+- dict={ 
+         “Name” : “parbat” ,
+          “Mark” : [98,97,96] ,
+        }
+
+- To access :   dict[“Name”]
+- To assign new value : Dict[“Name “]= “sajana”
+
+
+
+
+
 
 
 
