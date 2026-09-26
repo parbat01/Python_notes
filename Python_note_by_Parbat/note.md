@@ -280,10 +280,23 @@ Statement
                                   “math” : 96 ,
                                   }
                     }
-                    
+
 - To access subjects : print(students[“subject”])
                      Or 
 - To access one particular  subject : print(student[“subject”] [“chem”])
+
+# Dictionary methods
+
+
+- dict.keys() # returns all key 
+
+- dict.values() # returns all values 
+
+- dict.items()  # returns al (key , value) pairs as tuple
+
+- dict.get( “keys”) # returns all the keys according to the value
+
+- dict.update() # inserts the specified items to the dictionary 
 
 
 
