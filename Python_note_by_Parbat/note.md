@@ -298,6 +298,10 @@ Statement
 
 - dict.update() # inserts the specified items to the dictionary 
 
+# Empty dictionary
+
+- Syntax : dict={} # empty dictionary  
+
 
 
 
