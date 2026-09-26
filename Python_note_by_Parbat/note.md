@@ -268,7 +268,22 @@ Statement
         }
 
 - To access :   dict[“Name”]
-- To assign new value : Dict[“Name “]= “sajana”
+- To assign new value : Dict[“Name “]= “mike tyson”
+
+# Nested dictionary
+
+- Syntax  : student={
+                      “Name” : “parbat” ,
+                      “Subject” : {
+                                  “Phy” : 97 ,
+                                  “chem” : 98 ,
+                                  “math” : 96 ,
+                                  }
+                    }
+                    
+- To access subjects : print(students[“subject”])
+                     Or 
+- To access one particular  subject : print(student[“subject”] [“chem”])
 
 
 
